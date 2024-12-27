@@ -65,7 +65,8 @@ endif
 
 # Prebuilt applications
 PRODUCT_PACKAGES += \
-    BreezyWeather
+    BreezyWeather \
+    Hypatia
 
 # Lineage-specific broadcast actions whitelist
 PRODUCT_COPY_FILES += \
