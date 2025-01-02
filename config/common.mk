@@ -66,6 +66,9 @@ endif
 # GMS
 WITH_GMS := true
 
+# Aurora Store
+PRODUCT_PACKAGES += AuroraDroid AuroraStore AuroraServices
+
 # Prebuilt applications
 PRODUCT_PACKAGES += \
     BreezyWeather \
