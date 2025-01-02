@@ -63,6 +63,9 @@ PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 endif
 endif
 
+# GMS
+WITH_GMS := true
+
 # Prebuilt applications
 PRODUCT_PACKAGES += \
     BreezyWeather \
